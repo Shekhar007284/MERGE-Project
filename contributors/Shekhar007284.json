@@ -1,1 +1,8 @@
-
+{
+    "name": "SATYA SHEKHAR",
+    "course": "B.Tech CSE",
+    "batch": "2020-24",
+    "institution": "K.R.MANGALAM UNIVERSITY",
+    "skills_hobbies": ["C", "JAVA"],
+    "about": "College Student"
+}
